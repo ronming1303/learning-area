@@ -50,7 +50,7 @@ HTML 高阶文字处理
 5. [示例](https://roy-tian.github.io/learning-area/html/introduction-to-html/creating-hyperlinks)
 [代码](https://github.com/roy-tian/learning-area/tree/master/html/introduction-to-html/creating-hyperlinks)
 [章节](https://developer.mozilla.org/zh-CN/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks) |
-HTML 超链接：创建超链接
+HTML 超链接：创建超链接 ✅2021/10/26
 6. [示例](https://roy-tian.github.io/learning-area/html/introduction-to-html/navigation-menu-marked-up)
 [代码](https://github.com/roy-tian/learning-area/tree/master/html/introduction-to-html/navigation-menu-marked-up)
 [章节](https://developer.mozilla.org/zh-CN/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks) |
