@@ -25,7 +25,7 @@ CSS 基础：Mozilla 酷毙了（样式版）
 3. [示例](https://roy-tian.github.io/learning-area/extras/getting-started-web/beginner-html-site-scripted)
 [代码](https://github.com/roy-tian/learning-area/tree/master/extras/getting-started-web/beginner-html-site-scripted)
 [章节](https://developer.mozilla.org/zh-CN/docs/Learn/Getting_started_with_the_web/JavaScript_basics) |
-JavaScript 基础：Mozilla 酷毙了（脚本版）
+JavaScript 基础：Mozilla 酷毙了（脚本版）✅2021/10/25
 
 ### 1. HTML
 
@@ -58,7 +58,7 @@ HTML 超链接：示例站点
 7. [示例](https://roy-tian.github.io/learning-area/html/introduction-to-html/document-and-website-structure)
 [代码](https://github.com/roy-tian/learning-area/tree/master/html/introduction-to-html/document-and-website-structure)
 [章节](https://developer.mozilla.org/zh-CN/docs/learn/HTML/Introduction_to_HTML/文件和网站结构) |
-文档和站点结构：二次元俱乐部
+文档和站点结构：二次元俱乐部 ✅2021/10/26
 8. [示例](https://roy-tian.github.io/learning-area/html/introduction-to-html/debugging-html/debug-example.html)
 [代码](https://github.com/roy-tian/learning-area/tree/master/html/introduction-to-html/debugging-html)
 [章节](https://developer.mozilla.org/zh-CN/docs/Learn/HTML/Introduction_to_HTML/Debugging_HTML) |
