@@ -89,7 +89,7 @@ HTML 中的图片
 4. [示例](https://roy-tian.github.io/learning-area/html/multimedia-and-embedding/mdn-splash-page-finished)
 [代码](https://github.com/roy-tian/learning-area/tree/master/html/multimedia-and-embedding/mdn-splash-page-finished)
 [章节](https://developer.mozilla.org/zh-CN/docs/Learn/HTML/Multimedia_and_embedding/Mozilla_splash_page) |
-章节测验：Mozilla 宣传页
+章节测验：Mozilla 宣传页 ✅2021/10/27
 
 #### 1.3 HTML 表格
 
