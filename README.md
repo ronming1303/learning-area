@@ -124,7 +124,7 @@ HTML表格高阶：消费记录
 8. [示例](https://roy-tian.github.io/learning-area/html/tables/assessment-finished/planets-data.html)
 [代码](https://github.com/roy-tian/learning-area/tree/master/html/tables/assessment-finished)
 [章节](https://developer.mozilla.org/zh-CN/docs/Learn/HTML/Tables/Structuring_planet_data) |
-章节测验：太阳系行星数据
+章节测验：太阳系行星数据 ✅2021/10/29
 
 #### 1.4 表单
 
